@@ -1,4 +1,4 @@
-# ExperimentPlatform (test)
+# ExperimentPlatform
 Real-world maze navigation with tracking and experimental data collection.
 
 Required scripts and files are mostly contained within this directory, which is to be located at `~/ExperimentPlatform`. Program expects ROS environment to be already set up at `~/catkin_ws`.
